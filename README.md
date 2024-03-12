@@ -35,4 +35,7 @@ Here are some ideas to get you started:
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+----
+[![](https://visitcount.itsvg.in/api?id=ugurekc&icon=5&color=6)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
